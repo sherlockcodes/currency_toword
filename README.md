@@ -1,6 +1,6 @@
 # currency_toword
 
-gem file to convert currency in number to currency in word format.
+Open sourced gem file to convert indian currency in number to currency in word.
 
 it also supports indian currency format.
 
